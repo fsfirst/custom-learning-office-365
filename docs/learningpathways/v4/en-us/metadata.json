@@ -88,15 +88,6 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        },
-        {
-          "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-          "Name": "Hybrid workplace",
-          "Image": "images/categories/hybridwork.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
         }
       ]
     },
